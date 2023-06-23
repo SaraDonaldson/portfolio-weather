@@ -10,7 +10,7 @@ A copy of one of my previous projects, but with some changes
  - Format information recieved with HTML and responsive design/CSS
  - Conditional CSS to display only relevent info
  - Cute colour scheme to try a different design style to previous projects
- - Deployed and hosted with
+ - Deployed for viewing on github pages at "https://saradonaldson.github.io/portfolio-weather/"
 
 
 ## Setup for Devs
