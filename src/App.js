@@ -77,7 +77,7 @@ export default function App() {
         <form onSubmit={e => handleSubmit(e)}>
           <label>
             <input
-              placeholder="enter your location"
+              placeholder="your location..."
               name="location"
               type="text"
               value={location}

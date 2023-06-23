@@ -46,18 +46,18 @@
   margin-top: 11vh;
 }
 .form input {
-  min-width: 25vw;
-  max-width: 28vw;
+  min-width: 28vw;
+  max-width: 37vw;
   border-radius: 10px;
   margin-right: 5px;
   background-color: rgb(254, 224, 249);
-  letter-spacing: 0.2em;
+  letter-spacing: 0.16em;
   padding: 0.3em;
   padding-left:0.6em;
 }
 
 .submit {
-  max-width: 11vw;
+  max-width: 15vw;
   min-width: 55px;
   border-radius: 10px;
   background-color: rgb(252, 244, 175);
